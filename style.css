@@ -1,0 +1,69 @@
+.word{
+
+    font-size: larger;
+    margin: 10px auto;
+    width: 50%;
+    display: inline;
+    }
+    .wordn{
+        color: #27e446;
+    }
+    #btn{
+        background-color: green !important;
+        width: 50px;
+        height: 100px;
+        display: inline-block;
+    }
+    .main{
+        display: flex;
+        margin-left: 80px;
+        
+    }
+    .first{
+        margin-left: 80px;
+        position: absolute;
+        top: 300px;
+    }
+    #nav{
+        position:sticky;
+        top: 5px;
+    }
+    .color{
+        color: green;
+    }
+    .pd-10{
+        display: flex;
+        background-color:rgb(231, 223, 223);
+        padding: 40px;
+        justify-content: space-between;
+        width: 70%;
+        margin-left: 230px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+
+    
+    }
+    .btn btn-primary{
+        height: 20px !important;
+
+    }
+    .icon{
+        margin: 10px auto;
+        width: 1500px;
+        height: 100px;
+
+    }
+    .hover:hover{
+        width: 250px;
+        height: 250px;
+    }
+    #card{
+        margin-top: 200px;
+        margin-left: 200px;
+        
+        
+    }
+    .form{
+        display: flex;
+        padding-left: 350px;
+    }
